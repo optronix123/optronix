@@ -5,4 +5,5 @@
   * [The first thing you need to is create a repository for your book on GitHub.To do this, go to https](creating-your-books-github-repository/the-first-thing-you-need-to-is-create-a-repository-for-your-book-on-github.to-do-this-go-to-https.md)
 * [Publish your book online](publish-your-book-online.md)
 * [Sumitomo Splicing Machine](sumitomo-splicing-machine.md)
+* [OTDR](otdr.md)
 
