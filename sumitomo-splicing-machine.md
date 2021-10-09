@@ -4,3 +4,9 @@ Sumitomo Electric Industries, Ltd. \(SEI\), incorporated in 1897,is a Sumitomo G
 
 ![](.gitbook/assets/z2c-splicing-machine.jpeg)
 
+# SUMITOMO TYPE-82C+ Splicing Machine
+High Speed dual independent ovens for productivity
+Touch optimized user interface and high resolution display
+Proven Field toughness
+Long life battery for 320 splice & heat cycles
+![](.gitbook/assets/z2c-splicing-machine.jpeg)
